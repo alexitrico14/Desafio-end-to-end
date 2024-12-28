@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContactView.vue matches snapshot 1`] = `
+"<div class="contact">
+  <h1>Contact Us</h1>
+  <p>This is the Contact page.</p>
+</div>"
+`;
